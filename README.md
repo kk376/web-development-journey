@@ -28,6 +28,8 @@ web-development-journey/
   - [Tags and Formatting Practice](01_html/02_tags_and_elements/index.html)
 - **03. Boilerplate & Structure**:
   - [HTML5 Boilerplate & Head Elements](01_html/03_boilerplate_and_structure/index.html)
+- **04. Paragraphs & Headings**:
+  - [Paragraphs & Headings in HTML5](01_html/04_paragraphs_and_headings/index.html) 
 ---
 
 ## 🛠️ Tech Stack & Tooling
