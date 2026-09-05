@@ -32,6 +32,14 @@ web-development-journey/
   - [Paragraphs, Line Breaks & Headings in HTML](01_html/04_paragraphs_and_headings/index.html) 
 - **05. Lists**:
   - [Ordered and Unordered Lists in HTML](01_html/05_lists/index.html)
+- **06. Multimedia**:
+  - [Images, Audio & Video Embeds](01_html/06_multimedia/index.html)
+- **07. Hyperlinks**:
+  - Anchor Tags & Page Navigation (Coming soon...)
+- **08. Forms & Inputs**:
+  - Form Controls, Inputs & Buttons (Coming soon...)
+- **09. Containers & Divs**:
+  - Div Sandbox & Semantic Layouts (Coming soon...)
 ---
 
 ## 🛠️ Tech Stack & Tooling
