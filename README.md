@@ -27,7 +27,8 @@ web-development-journey/
   - [How the Web Works, Client-Server Basics & Structure](01_html/01_introduction/02_how_the_web_works_and_structure.md)
 - **02. Tags and Elements**:
   - [Tags and Formatting Practice](01_html/02_tags_and_elements/index.html)
-
+- **03. Boilerplate & Structure**:
+  - [HTML5 Boilerplate & Head Elements](01_html/03_boilerplate_and_structure/index.html)
 ---
 
 ## 🛠️ Tech Stack & Tooling
