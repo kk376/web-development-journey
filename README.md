@@ -25,6 +25,8 @@ web-development-journey/
 - **01. Introduction**:
   - [Web Development Overview & Role of HTML](01_html/01_introduction/01_web_development_and_html_role.md)
   - [How the Web Works, Client-Server Basics & Structure](01_html/01_introduction/02_how_the_web_works_and_structure.md)
+- **02. Tags and Elements**:
+  - [Tags and Formatting Practice](01_html/02_tags_and_elements/index.html)
 
 ---
 
