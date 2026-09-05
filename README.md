@@ -11,7 +11,6 @@ This repository follows a chapter-by-chapter progression covering core web techn
 ```text
 web-development-journey/
 ├── 01_html/                                  # HTML5 structure, semantic markup, forms, media
-│   └── 01_introduction/                      # Web dev basics, client-server, file anatomy
 ├── 02_css/                                   # CSS3 styling, box model, positioning, Flexbox
 ├── 03_projects/                              # Hands-on landing pages & component builds
 ├── 04_javascript/                            # Core JS, variables, functions, data structures
