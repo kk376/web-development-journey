@@ -29,7 +29,9 @@ web-development-journey/
 - **03. Boilerplate & Structure**:
   - [HTML5 Boilerplate & Head Elements](01_html/03_boilerplate_and_structure/index.html)
 - **04. Paragraphs & Headings**:
-  - [Paragraphs & Headings in HTML5](01_html/04_paragraphs_and_headings/index.html) 
+  - [Paragraphs, Line Breaks & Headings in HTML](01_html/04_paragraphs_and_headings/index.html) 
+- **05. Lists**:
+  - [Ordered and Unordered Lists in HTML](01_html/05_lists/index.html)
 ---
 
 ## 🛠️ Tech Stack & Tooling
