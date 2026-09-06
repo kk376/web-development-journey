@@ -39,7 +39,7 @@ web-development-journey/
 - **08. Forms & Inputs**:
   - [Form Controls, Inputs & Buttons](01_html/08_forms_and_inputs/index.html)
 - **09. Containers & Divs**:
-  - Div Sandbox & Semantic Layouts (Coming soon...)
+  - [Div Sandbox & Semantic Layouts](01_html/09_containers_and_divs/index.html)
 ---
 
 ## 🛠️ Tech Stack & Tooling
