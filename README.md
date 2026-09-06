@@ -35,7 +35,7 @@ web-development-journey/
 - **06. Multimedia**:
   - [Images, Audio & Video Embeds](01_html/06_multimedia/index.html)
 - **07. Hyperlinks**:
-  - Anchor Tags & Page Navigation (Coming soon...)
+  - [Anchor Tags & Page Navigation](01_html/07_links/index.html)
 - **08. Forms & Inputs**:
   - Form Controls, Inputs & Buttons (Coming soon...)
 - **09. Containers & Divs**:
