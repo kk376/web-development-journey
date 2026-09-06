@@ -5,10 +5,29 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="color-scheme" content="dark">
     <title>Basic CSS Syntax</title>
+    <!-- 1. External CSS: linked from an external file -->
     <link rel="stylesheet" href="style.css">
+
+    <!-- 2. Internal CSS: written inside <style> tags within <head> -->
+    <style>
+        h2 {
+            color: green;
+        }
+    </style>
 </head>
 <body>
-    <h1> This is a heading. </h1> <br><br><hr><br>
-    <p> This is a paragraph. </p>
+    <!-- 1. Styled via External CSS (style.css) -->
+    <h1> This is a heading styled by External CSS. </h1>
+    <p> This is a paragraph styled by External CSS. </p>
+
+    <hr><br>
+
+    <!-- 2. Styled via Internal CSS -->
+    <h2> This heading is styled using Internal CSS. </h2>
+
+    <br><hr><br>
+
+    <!-- 3. Styled via Inline CSS: directly on the tag using the style attribute -->
+    <h3 style="color: coral; font-size: 20px;"> This heading is styled using Inline CSS (style attribute). </h3>
 </body>
 </html>

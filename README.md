@@ -46,19 +46,19 @@ web-development-journey/
 ## 🎨 Module 02: CSS3 Core & Layouts
 
 - **01. Inclusion & Syntax**:
-  - [CSS Inclusion & Basic Syntax Practice](02_css/01_inclusion_and_syntax/index.html)
-- **02. Selectors**: *(In Progress)*
-  - Tag, Class (`.`), ID (`#`), and Universal (`*`) Selectors
+  - [Role of CSS & 3 Ways to Apply CSS (Inline, Internal, External)](02_css/01_inclusion_and_syntax/index.html)
+- **02. Selectors**:
+  - [Tag, Class, ID, Universal Selectors & Essential CSS Reset](02_css/02_selectors/index.html)
 - **03. Colors & Backgrounds**:
-  - Color Properties, HEX, RGB & Background Styling
+  - [Color Formats (HEX, RGB/A, Named) & Background Gradients](02_css/03_colors_and_backgrounds/index.html)
 - **04. Typography**:
-  - Font Families, Custom Fonts, Sizing, Weights & Text Transforms
+  - [Font Families, Custom Fonts, Sizing, Weights & Text Transforms](02_css/04_typography/index.html)
 - **05. Box Model**:
-  - Content, Padding, Border, Margin & Border Radius
+  - The 4 Layers (Content, Padding, Border, Margin) & Border Radius (Coming soon...)
 - **06. Positioning & Z-Index**:
-  - Normal Flow, Relative & Absolute Positioning, Coordinate Offsets & Stacking Context
+  - Positioning (Relative, Absolute), Coordinate Offsets & Stacking Context (Coming soon...)
 - **07. Flexbox**:
-  - Flex Containers, Main Axis, Cross Axis, Alignment & Layouts
+  - Flex Containers, Main & Cross Axis Alignment (Coming soon...)
 
 ---
 

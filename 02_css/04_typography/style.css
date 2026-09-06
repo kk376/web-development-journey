@@ -1,0 +1,30 @@
+/* 1. Font Family */
+.font-demo {
+    font-family: system-ui, -apple-system, sans-serif;
+    color: skyblue;
+}
+
+/* 2. Font Size & Weight */
+.size-weight {
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+}
+
+/* 3. Font Style & Alignment */
+.style-align {
+    font-style: italic;
+    text-align: center;
+    color: wheat;
+}
+
+/* 4. Text Transform */
+.uppercase {
+    text-transform: uppercase;
+    color: coral;
+}
+
+.capitalize {
+    text-transform: capitalize;
+    color: lightgreen;
+}

@@ -1,0 +1,24 @@
+/* 1. Text color and background-color using named colors */
+.named {
+    color: white;
+    background-color: darkred;
+}
+
+/* 2. Colors using HEX codes */
+.hex {
+    color: #38bdf8;
+    background-color: #1e293b;
+}
+
+/* 3. Colors using RGB */
+.rgb {
+    color: rgb(255, 99, 71);
+    background-color: rgb(30, 30, 30);
+}
+
+/* 4. Background Image with Linear Gradient */
+.gradient-box {
+    background-image: linear-gradient(to right, red, yellow);
+    color: black;
+    height: 100px;
+}

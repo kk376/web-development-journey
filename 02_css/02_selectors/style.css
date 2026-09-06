@@ -1,0 +1,27 @@
+/* 1. Universal Selector: selects every element */
+* {
+    font-family: sans-serif;
+}
+
+/* 2. Tag / Element Selector: selects by HTML tag name */
+h1 {
+    color: red;
+}
+
+h2 {
+    color: skyblue;
+}
+
+p {
+    color: white;
+}
+
+/* 3. Class Selector: starts with a dot (.) */
+.highlight {
+    color: yellow;
+}
+
+/* 4. ID Selector: starts with a hash (#) */
+#special {
+    color: coral;
+}
