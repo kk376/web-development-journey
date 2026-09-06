@@ -40,6 +40,26 @@ web-development-journey/
   - [Form Controls, Inputs & Buttons](01_html/08_forms_and_inputs/index.html)
 - **09. Containers & Divs**:
   - [Div Sandbox & Semantic Layouts](01_html/09_containers_and_divs/index.html)
+
+---
+
+## 🎨 Module 02: CSS3 Core & Layouts
+
+- **01. Inclusion & Syntax**:
+  - [CSS Inclusion & Basic Syntax Practice](02_css/01_inclusion_and_syntax/index.html)
+- **02. Selectors**: *(In Progress)*
+  - Tag, Class (`.`), ID (`#`), and Universal (`*`) Selectors
+- **03. Colors & Backgrounds**:
+  - Color Properties, HEX, RGB & Background Styling
+- **04. Typography**:
+  - Font Families, Custom Fonts, Sizing, Weights & Text Transforms
+- **05. Box Model**:
+  - Content, Padding, Border, Margin & Border Radius
+- **06. Positioning & Z-Index**:
+  - Normal Flow, Relative & Absolute Positioning, Coordinate Offsets & Stacking Context
+- **07. Flexbox**:
+  - Flex Containers, Main Axis, Cross Axis, Alignment & Layouts
+
 ---
 
 ## 🛠️ Tech Stack & Tooling
