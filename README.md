@@ -37,7 +37,7 @@ web-development-journey/
 - **07. Hyperlinks**:
   - [Anchor Tags & Page Navigation](01_html/07_links/index.html)
 - **08. Forms & Inputs**:
-  - Form Controls, Inputs & Buttons (Coming soon...)
+  - [Form Controls, Inputs & Buttons](01_html/08_forms_and_inputs/index.html)
 - **09. Containers & Divs**:
   - Div Sandbox & Semantic Layouts (Coming soon...)
 ---
